@@ -1,0 +1,13 @@
+C:\Users\PhilipJensen\source\repos\h2cipher\h2cipher\bin\Debug\netcoreapp3.1\h2cipher.exe
+C:\Users\PhilipJensen\source\repos\h2cipher\h2cipher\bin\Debug\netcoreapp3.1\h2cipher.deps.json
+C:\Users\PhilipJensen\source\repos\h2cipher\h2cipher\bin\Debug\netcoreapp3.1\h2cipher.runtimeconfig.json
+C:\Users\PhilipJensen\source\repos\h2cipher\h2cipher\bin\Debug\netcoreapp3.1\h2cipher.runtimeconfig.dev.json
+C:\Users\PhilipJensen\source\repos\h2cipher\h2cipher\bin\Debug\netcoreapp3.1\h2cipher.dll
+C:\Users\PhilipJensen\source\repos\h2cipher\h2cipher\bin\Debug\netcoreapp3.1\h2cipher.pdb
+C:\Users\PhilipJensen\source\repos\h2cipher\h2cipher\obj\Debug\netcoreapp3.1\h2cipher.csprojAssemblyReference.cache
+C:\Users\PhilipJensen\source\repos\h2cipher\h2cipher\obj\Debug\netcoreapp3.1\h2cipher.AssemblyInfoInputs.cache
+C:\Users\PhilipJensen\source\repos\h2cipher\h2cipher\obj\Debug\netcoreapp3.1\h2cipher.AssemblyInfo.cs
+C:\Users\PhilipJensen\source\repos\h2cipher\h2cipher\obj\Debug\netcoreapp3.1\h2cipher.csproj.CoreCompileInputs.cache
+C:\Users\PhilipJensen\source\repos\h2cipher\h2cipher\obj\Debug\netcoreapp3.1\h2cipher.dll
+C:\Users\PhilipJensen\source\repos\h2cipher\h2cipher\obj\Debug\netcoreapp3.1\h2cipher.pdb
+C:\Users\PhilipJensen\source\repos\h2cipher\h2cipher\obj\Debug\netcoreapp3.1\h2cipher.genruntimeconfig.cache
